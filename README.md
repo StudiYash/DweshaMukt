@@ -46,6 +46,6 @@ The backend development was an intricate journey, involving months of rigorous r
 
 Our **Mark Model Index Document** provides a comprehensive overview of this journey, showcasing each model’s evolution, from early concepts to the final optimized versions. Dive into the document to see how each model was crafted, tested, and fine-tuned to tackle the challenges of multilingual, multimodal hate speech detection.
 
-[![Read the Full Mark Model Index Document](https://img.shields.io/badge/View-Mark%20Model%20Index%20Document-blue?style=for-the-badge)](#)
+[![Read the Full Mark Model Index Document](https://img.shields.io/badge/View-Mark%20Model%20Index%20Document-blue?style=for-the-badge)](https://github.com/StudiYash/DweshaMukt/blob/main/Mark%20Model%20Index.pdf)
 
 ---
