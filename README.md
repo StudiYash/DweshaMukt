@@ -17,10 +17,10 @@ Experimental results show an accuracy of **88%**, underscoring the model's effic
 - **Total Time Required**: 1 Year, 8 Months, and 5 Days
 
 ### Team Members
-- **Yash Suhas Shukla** — [GitHub](#) | [LinkedIn](#)
-- **Tanmay Dnyaneshwar Nigade** — [GitHub](#) | [LinkedIn](#)
-- **Suyash Vikas Khodade** — [GitHub](#) | [LinkedIn](#)
-- **Prathamesh Dilip Pimpalkar** — [GitHub](#) | [LinkedIn](#)
+- **Yash Suhas Shukla** — [GitHub](https://github.com/StudiYash) | [LinkedIn](https://www.linkedin.com/in/yash-shukla-2024aiguy/)
+- **Tanmay Dnyaneshwar Nigade** — [GitHub](#) | [LinkedIn](https://www.linkedin.com/in/tanmay-nigade-0ba002230/)
+- **Suyash Vikas Khodade** — [GitHub](#) | [LinkedIn](https://www.linkedin.com/in/suyash-khodade/)
+- **Prathamesh Dilip Pimpalkar** — [GitHub](#) | [LinkedIn](https://www.linkedin.com/in/prathamesh-pimpalkar-5a9545204/)
 
 ### Project Guide
 - **Prof. Rajkumar Panchal** — [GitHub](#) | [LinkedIn](#)
