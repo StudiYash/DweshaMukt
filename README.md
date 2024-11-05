@@ -125,3 +125,26 @@ To refer the code of these telegram bots, press the button below.
 [![Explore Frontend Repository](https://img.shields.io/badge/View-Telegram%20Bots%20Code-teal?style=for-the-badge&logo=github)](#)
 
 ---
+
+## 7. Project Representation 🎉
+
+The DweshaMukt project was proudly showcased at the **Nexus 1.0 State Level Project Competition** on **15th April 2024**. Held at the **Army Institute of Technology, Pune**, this prestigious event was organized by the Department of Information Technology and Computer Engineering under the **AIT ACM Student Chapter**.
+
+Representing this project at Nexus 1.0 allowed our team to not only share our research and technical achievements but also to raise awareness about the importance of addressing hate speech in today’s digital world. Competitions like these offer valuable platforms for knowledge exchange, constructive feedback, and networking with other innovators, researchers, and industry experts.
+
+### Participation Certificates 🏆
+Below are the participation certificates awarded to our team members for presenting DweshaMukt at Nexus 1.0.
+
+<p align="center">
+  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Project%20Certifications/Project%20Representation/Nexus%201.0%20State%20Level%20Competetion/Yash.png" alt="Certificate 1" width="45%" />
+  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Project%20Certifications/Project%20Representation/Nexus%201.0%20State%20Level%20Competetion/Tanmay.png" alt="Certificate 2" width="45%" />
+</p>
+<p align="center">
+  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Project%20Certifications/Project%20Representation/Nexus%201.0%20State%20Level%20Competetion/Suyash.png" alt="Certificate 3" width="45%" />
+  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Project%20Certifications/Project%20Representation/Nexus%201.0%20State%20Level%20Competetion/Prathamesh.png" alt="Certificate 4" width="45%" />
+</p>
+
+---
+
+
+
