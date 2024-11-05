@@ -122,7 +122,7 @@ Each bot seamlessly interacts with the backend, delivering real-time classificat
 
 To refer the code of these telegram bots, press the button below.
 
-[![Explore Frontend Repository](https://img.shields.io/badge/View-Telegram%20Bots%20Code-teal?style=for-the-badge&logo=github)](#)
+[![Explore Telegram Bots](https://img.shields.io/badge/View-Telegram%20Bots%20Code-teal?style=for-the-badge&logo=github)](#)
 
 ---
 
@@ -146,5 +146,26 @@ Below are the participation certificates awarded to our team members for present
 
 ---
 
+## 8. Project Conference 📑
 
+Presenting the **DweshaMukt** project at an international platform has been a milestone achievement for our team. Our research was showcased at the **CVMI-2024 IEEE International Conference on Computer Vision and Machine Intelligence**, hosted by **IIIT Allahabad, Prayagraj** on **19th and 20th October 2024**. The conference offered a valuable opportunity for knowledge exchange with global experts and researchers, fostering discussions on the latest advancements in computer vision and machine learning.
 
+### Key Highlights
+- **Research Paper Submission**: Our research paper on DweshaMukt was successfully submitted to IEEE.
+- **Conference Attendance**: Represented by **Yash Shukla** and **Prof. Rajkumar Panchal**, the conference participation strengthened our network and insights within the academic community.
+- **Conference Report**: The conference report details our experiences and learnings from the event, including keynote sessions and other relevant presentations on emerging research trends.
+
+**To read our Research Paper, press the button below.**
+[![Explore Telegram Bots](https://img.shields.io/badge/View-IEEE%20Research%20Paper-coral?style=for-the-badge&logo=IEEE)](#)
+
+### Conference Participation Certificates 🎓
+
+The following certificates were awarded for our participation and representation at CVMI-2024:
+
+<p align="center">
+  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Project%20Certifications/Project%20Conference/Project%20Conference%20Certificate%20Yash.jpg" alt="Certificate 1" width="75%" />
+</p>
+
+> *Showcasing our work at a conference of this caliber allowed us to share our vision for hate speech detection with an international audience, gaining invaluable feedback and recognition.*
+
+---
