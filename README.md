@@ -234,7 +234,7 @@ Quick Overview regarding the permissions of usage of this project can be found o
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
 
-## 🎉 Contributions
+## Contributions 🎉
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 - **Contributor License Agreement (CLA)**: By submitting a pull request, you confirm that you have read and agree to the terms of the [Contributor License Agreement (CLA)](https://github.com/StudiYash/DweshaMukt/blob/main/CLA.md).
