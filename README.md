@@ -11,15 +11,11 @@ With an accuracy of **88%**, DweshaMukt stands as a promising solution for real-
 
 **Index Terms:** Hate Speech Detection, BERT, Deep Learning, Natural Language Processing, Multilingual, Multimodal, Hinglish, Real-Time Analysis
 
----
-
 ### Project Timeline 📅
 
 - **Start Date**: 15th February 2023
 - **End Date**: 20th October 2024
 - **Total Time Required**: 1 Year, 8 Months, and 5 Days
-
----
 
 ### Team Members 👥
 
@@ -70,8 +66,6 @@ The combined code integrates all these scenarios into a unified detection system
 ### Overview
 The **DweshaMukt Dataset** is a curated collection of comments carefully selected to support research on hate speech detection. This dataset includes multilingual data in **Hinglish**, **Hindi**, and **English**, capturing various instances of hate and non-hate speech. It is a valuable resource for researchers and developers working on projects aimed at building safer online communities.
 
----
-
 ### Dataset Composition
 - **Datasets Used**: CONSTRAINT 2021 and Hindi Hate Speech Detection (HHSD)
 - **Total Comments**: 22,977
@@ -97,18 +91,17 @@ By requesting access to this dataset, you agree to the following:
 
 The frontend for the DweshaMukt project is built as a **Streamlit** application, allowing users to interact seamlessly with our hate speech detection models across various input formats. This interface makes it easy to submit and analyze **text, audio, video, images, GIFs, and YouTube comments**.
 
----
-
 ### Key Features
 - **Multi-format Detection**: Supports text, audio, video, images, GIFs, and YouTube comments.
 - **Real-time Analysis**: Provides immediate feedback on uploaded content.
 - **User-friendly Interface**: Simple navigation with clear instructions and dynamic visual feedback.
 - **Emoji Detection**: Enhanced detection with emoticon analysis.
 
-### Main Dashboard
-![Dashboard Screenshot](https://github.com/StudiYash/DweshaMukt/blob/main/Project%20Frontend%20Dashboard.png)
-
 [![Explore Frontend Repository](https://img.shields.io/badge/View-Frontend%20Repository-blue?style=for-the-badge&logo=github)](https://github.com/tanmay183/Hate_Speech_Detection_Hinglish)
+
+### Main Dashboard
+
+<img src="https://github.com/StudiYash/DweshaMukt/blob/main/Project%20Frontend%20Dashboard.png" style="border: 2px solid white; width: 400px; height: 300px;" alt="Dashboard Screenshot">
 
 ---
 
