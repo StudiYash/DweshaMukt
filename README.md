@@ -120,4 +120,8 @@ The DweshaMukt project is integrated with Telegram through a series of specializ
 
 Each bot seamlessly interacts with the backend, delivering real-time classification results to users. Whether you're analyzing text, multimedia, or live YouTube comments, these bots ensure a versatile and accessible experience for hate speech detection.
 
+To refer the code of these telegram bots, press the button below.
+
+[![Explore Frontend Repository](https://img.shields.io/badge/View-Telegram%20Bots%20Code-teal?style=for-the-badge&logo=github)](#)
+
 ---
