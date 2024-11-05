@@ -157,8 +157,7 @@ Presenting this project at an international platform has been a milestone achiev
 ### Conference Report:
 The conference report details our experiences and learnings from the event, including keynote sessions and other relevant presentations on emerging research trends. To read the Conference Report, press the button below.
 
-[![Project Conference Report](https://img.shields.io/badge/View-Conference%20Report-brown?style=for-the-badge&logo=Adobe)](#)
-
+[![Project Conference Report](https://img.shields.io/badge/View-Conference%20Report-brown?style=for-the-badge&logo=Adobe)](https://github.com/StudiYash/DweshaMukt/blob/main/Support%20Files/Conference%20Report.pdf)
 
 ### Project Research Paper:
 To read our Research Paper, press the button below.
