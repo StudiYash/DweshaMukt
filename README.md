@@ -1,6 +1,6 @@
 # ![DweshaMukt](https://github.com/StudiYash/DweshaMukt/blob/main/DweshaMukt%20Logo.png)
 
-## 1. Project Introduction 🛡️
+## Project Introduction 🛡️
 
 ### Abstract 📄
 In today’s digital landscape, hate speech is an escalating concern, often fueling division and unrest across communities. DweshaMukt is an **Advanced Multilingual and Multimodal Hate Speech Detection System** designed to counteract this issue by harnessing the power of **Bidirectional Encoder Representations from Transformers (BERT)** alongside cutting-edge **Deep Learning** and **Natural Language Processing (NLP)** techniques.
@@ -34,7 +34,7 @@ With an accuracy of **88%**, DweshaMukt stands as a promising solution for real-
 
 ---
 
-## 2. Backend Preparation 🔧
+## Backend Preparation 🔧
 
 ### Mark Models Index
 
@@ -46,7 +46,7 @@ Our **Mark Model Index Document** provides a comprehensive overview of this jour
 
 ---
 
-## 3. Project Backend 🖥️
+## Project Backend 🖥️
 
 The backend architecture of DweshaMukt enables the system to classify various forms of input **text, audio, video, images, GIFs, and live YouTube comments** by first converting each to text before applying the hate speech detection model. Here are the main scenarios handled by the system:
 
@@ -61,7 +61,7 @@ The combined code integrates all these scenarios into a unified detection system
 
 ---
 
-## 4. Project Dataset 📊
+## Project Dataset 📊
 
 ### Overview
 The **DweshaMukt Dataset** is a curated collection of comments carefully selected to support research on hate speech detection. This dataset includes multilingual data in **Hinglish**, **Hindi**, and **English**, capturing various instances of hate and non-hate speech. It is a valuable resource for researchers and developers working on projects aimed at building safer online communities.
@@ -87,7 +87,7 @@ By requesting access to this dataset, you agree to the following:
 
 ---
 
-## 5. Project Frontend 🌐
+## Project Frontend 🌐
 
 The frontend for this project is built as a **Streamlit** application, allowing users to interact seamlessly with our hate speech detection models across various input formats. This interface makes it easy to submit and analyze **text, audio, video, images, GIFs, and YouTube comments**.
 
@@ -105,7 +105,7 @@ The frontend for this project is built as a **Streamlit** application, allowing 
 
 ---
 
-## 6. Project Telegram Bots 🤖
+## Project Telegram Bots 🤖
 
 The **DweshaMukt** project is integrated with **Telegram** through a series of specialized bots, each designed to handle a different type of input. This allows users to classify text, audio, images, GIFs, video, and YouTube comments directly within the Telegram platform.
 
@@ -126,7 +126,7 @@ To refer the code of these telegram bots, press the button below.
 
 ---
 
-## 7. Project Representation 🎉
+## Project Representation 🎉
 
 The **DweshaMukt** project was proudly showcased at the **Nexus 1.0 State Level Project Competition** on **15th April 2024**. Held at the **Army Institute of Technology, Pune**, this prestigious event was organized by the Department of Information Technology and Computer Engineering under the **AIT ACM Student Chapter**.
 
@@ -146,7 +146,7 @@ Below are the participation certificates awarded to our team members for present
 
 ---
 
-## 8. Project Conference 📑
+## Project Conference 📑
 
 Presenting this project at an international platform has been a milestone achievement for our team. Our research was showcased at the **CVMI-2024 IEEE International Conference on Computer Vision and Machine Intelligence**, hosted by **IIIT Allahabad, Prayagraj** on **19th and 20th October 2024**. The conference offered a valuable opportunity for knowledge exchange with global experts and researchers, fostering discussions on the latest advancements in computer vision and machine learning.
 
@@ -176,7 +176,7 @@ The following certificate was awarded for my participation and representation at
 
 ---
 
-## 9. Project Copyright ©️
+## Project Copyright ©️
 
 Securing copyright for this project marked an important milestone in safeguarding our innovation and intellectual property. Copyrighting our project not only protects the unique aspects of our hate speech detection system but also reinforces our commitment to responsible AI research. By copyrighting this idea, we ensure that the methods, models, and technological advances developed through this project remain attributed to our team.
 
@@ -191,7 +191,7 @@ Securing copyright for this project marked an important milestone in safeguardin
 
 ---
 
-## 10. Project Funding 💸
+## Project Funding 💸
 
 This project was generously funded by **Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering and Technology College**, whose support played a pivotal role in enabling our team to bring this ambitious vision to life. This funding allowed us to access essential resources, collaborate with experts, and ensure high-quality development across every phase of the project. 
 
@@ -214,9 +214,33 @@ This project was generously funded by **Vidya Pratishthan's Kamalnayan Bajaj Ins
 
 ---
 
-## 11. Project Report 📔
+## Project Report 📔
 
 This project report is extremely detailed in terms of all the progress made till date in the project.
 The project report can be viewed by pressing the button below.
 
 [![Project Report](https://img.shields.io/badge/View-Project%20Report-blue?style=for-the-badge&logo=adobe)](https://github.com/StudiYash/DweshaMukt/blob/main/Support%20Files/Project%20Report%20Final_Draft_Sharable.pdf)
+
+## License 📄
+
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. For more details, please refer to the [LICENSE](https://github.com/StudiYash/DweshaMukt/blob/main/LICENSE) file in the repository.
+
+By using this project, you agree to give appropriate credit, not use the material for commercial purposes without permission, and share any adaptations under the same license.
+
+Attribution should be given as: 
+"DweshaMukt Project by DweshaMukt Team (https://github.com/StudiYash/DweshaMukt)"
+
+Quick Overview regarding the permissions of usage of this project can be found on [LICENSE DEED : CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
+
+## 🎉 Contributions
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+- **Contributor License Agreement (CLA)**: By submitting a pull request, you confirm that you have read and agree to the terms of the [Contributor License Agreement (CLA)](https://github.com/StudiYash/DweshaMukt/blob/main/CLA.md).
+
+- **Code of Conduct**: This project and everyone participating in it are governed by the [DweshaMukt Code of Conduct](https://github.com/StudiYash/DweshaMukt/blob/main/CODE_OF_CONDUCT.md).
+
+- **Contributors**: See the list of contributors [here](https://github.com/StudiYash/DweshaMukt/blob/main/CONTRIBUTORS.md).
+
+Made with ❤️ by [DweshaMukt Team](#)
