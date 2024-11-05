@@ -22,9 +22,9 @@ With an accuracy of **88%**, DweshaMukt stands as a promising solution for real-
 | Team Members                   | GitHub Profile | LinkedIn Profile |
 |--------------------------------|----------------|------------------|
 | **Yash Suhas Shukla**          | [GitHub](https://github.com/StudiYash) | [LinkedIn](https://www.linkedin.com/in/yash-shukla-2024aiguy/) |
-| **Tanmay Dnyaneshwar Nigade**   | [GitHub](#) | [LinkedIn](https://www.linkedin.com/in/tanmay-nigade-0ba002230/) |
-| **Suyash Vikas Khodade**        | [GitHub](#) | [LinkedIn](https://www.linkedin.com/in/suyash-khodade/) |
-| **Prathamesh Dilip Pimpalkar**  | [GitHub](#) | [LinkedIn](https://www.linkedin.com/in/prathamesh-pimpalkar-5a9545204/) |
+| **Tanmay Dnyaneshwar Nigade**   | [GitHub](https://github.com/tanmay183) | [LinkedIn](https://www.linkedin.com/in/tanmay-nigade-0ba002230/) |
+| **Suyash Vikas Khodade**        | [GitHub](https://github.com/suyash332) | [LinkedIn](https://www.linkedin.com/in/suyash-khodade/) |
+| **Prathamesh Dilip Pimpalkar**  | [GitHub](https://github.com/pimpalkarprathamesh) | [LinkedIn](https://www.linkedin.com/in/prathamesh-pimpalkar-5a9545204/) |
 
 ### Project Guide 🎓
 
@@ -42,7 +42,7 @@ The backend development was an intricate journey, involving months of rigorous r
 
 Our **Mark Model Index Document** provides a comprehensive overview of this journey, showcasing each model’s evolution, from early concepts to the final optimized versions. Dive into the document to see how each model was crafted, tested, and fine-tuned to tackle the challenges of multilingual, multimodal hate speech detection.
 
-[![Read the Full Mark Model Index Document](https://img.shields.io/badge/View-Mark%20Model%20Index%20Document-blue?style=for-the-badge&logo=Adobe)](https://github.com/StudiYash/DweshaMukt/blob/main/Support%20Files/Mark%20Model%20Index.pdf)
+[![Mark Model Index Document](https://img.shields.io/badge/View-Mark%20Model%20Index%20Document-blue?style=for-the-badge&logo=Adobe)](https://github.com/StudiYash/DweshaMukt/blob/main/Support%20Files/Mark%20Model%20Index.pdf)
 
 ---
 
@@ -89,7 +89,7 @@ By requesting access to this dataset, you agree to the following:
 
 ## 5. Project Frontend 🌐
 
-The frontend for the DweshaMukt project is built as a **Streamlit** application, allowing users to interact seamlessly with our hate speech detection models across various input formats. This interface makes it easy to submit and analyze **text, audio, video, images, GIFs, and YouTube comments**.
+The frontend for this project is built as a **Streamlit** application, allowing users to interact seamlessly with our hate speech detection models across various input formats. This interface makes it easy to submit and analyze **text, audio, video, images, GIFs, and YouTube comments**.
 
 ### Key Features
 - **Multi-format Detection**: Supports text, audio, video, images, GIFs, and YouTube comments.
@@ -107,7 +107,7 @@ The frontend for the DweshaMukt project is built as a **Streamlit** application,
 
 ## 6. Project Telegram Bots 🤖
 
-The DweshaMukt project is integrated with Telegram through a series of specialized bots, each designed to handle a different type of input. This allows users to classify text, audio, images, GIFs, video, and YouTube comments directly within the Telegram platform.
+The **DweshaMukt** project is integrated with **Telegram** through a series of specialized bots, each designed to handle a different type of input. This allows users to classify text, audio, images, GIFs, video, and YouTube comments directly within the Telegram platform.
 
 | Bot Name          | Description                              | Watch in Action |
 |-------------------|------------------------------------------|-----------------|
@@ -128,7 +128,7 @@ To refer the code of these telegram bots, press the button below.
 
 ## 7. Project Representation 🎉
 
-The DweshaMukt project was proudly showcased at the **Nexus 1.0 State Level Project Competition** on **15th April 2024**. Held at the **Army Institute of Technology, Pune**, this prestigious event was organized by the Department of Information Technology and Computer Engineering under the **AIT ACM Student Chapter**.
+The **DweshaMukt** project was proudly showcased at the **Nexus 1.0 State Level Project Competition** on **15th April 2024**. Held at the **Army Institute of Technology, Pune**, this prestigious event was organized by the Department of Information Technology and Computer Engineering under the **AIT ACM Student Chapter**.
 
 Representing this project at Nexus 1.0 allowed our team to not only share our research and technical achievements but also to raise awareness about the importance of addressing hate speech in today’s digital world. Competitions like these offer valuable platforms for knowledge exchange, constructive feedback, and networking with other innovators, researchers, and industry experts.
 
@@ -148,20 +148,26 @@ Below are the participation certificates awarded to our team members for present
 
 ## 8. Project Conference 📑
 
-Presenting the **DweshaMukt** project at an international platform has been a milestone achievement for our team. Our research was showcased at the **CVMI-2024 IEEE International Conference on Computer Vision and Machine Intelligence**, hosted by **IIIT Allahabad, Prayagraj** on **19th and 20th October 2024**. The conference offered a valuable opportunity for knowledge exchange with global experts and researchers, fostering discussions on the latest advancements in computer vision and machine learning.
+Presenting this project at an international platform has been a milestone achievement for our team. Our research was showcased at the **CVMI-2024 IEEE International Conference on Computer Vision and Machine Intelligence**, hosted by **IIIT Allahabad, Prayagraj** on **19th and 20th October 2024**. The conference offered a valuable opportunity for knowledge exchange with global experts and researchers, fostering discussions on the latest advancements in computer vision and machine learning.
 
 ### Key Highlights
-- **Research Paper Submission**: Our research paper on DweshaMukt was successfully submitted to IEEE.
+- **Research Paper Submission**: Our research paper on this project was successfully submitted to IEEE.
 - **Conference Attendance**: Represented by **Yash Shukla** and **Prof. Rajkumar Panchal**, the conference participation strengthened our network and insights within the academic community.
-- **Conference Report**: The conference report details our experiences and learnings from the event, including keynote sessions and other relevant presentations on emerging research trends.
 
-**To read our Research Paper, press the button below.**
+### Conference Report:
+The conference report details our experiences and learnings from the event, including keynote sessions and other relevant presentations on emerging research trends. To read the Conference Report, press the button below.
+
+[![Project Conference Report](https://img.shields.io/badge/View-Conference%20Report-brown?style=for-the-badge&logo=Adobe)](#)
+
+
+### Project Research Paper:
+To read our Research Paper, press the button below.
 
 [![Project Research Paper](https://img.shields.io/badge/View-IEEE%20Research%20Paper-coral?style=for-the-badge&logo=IEEE)](#)
 
 ### Conference Participation Certificates 🎓
 
-The following certificates were awarded for our participation and representation at CVMI-2024:
+The following certificate was awarded for my participation and representation at CVMI-2024:
 
 <p align="center">
   <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Project%20Certifications/Project%20Conference/Project%20Conference%20Certificate%20Yash.jpg" alt="Certificate 1" width="75%" />
@@ -173,7 +179,7 @@ The following certificates were awarded for our participation and representation
 
 ## 9. Project Copyright ©️
 
-Securing copyright for **DweshaMukt** marked an important milestone in safeguarding our innovation and intellectual property. Copyrighting our project not only protects the unique aspects of our hate speech detection system but also reinforces our commitment to responsible AI research. By copyrighting this idea, we ensure that the methods, models, and technological advances developed through this project remain attributed to our team.
+Securing copyright for this project marked an important milestone in safeguarding our innovation and intellectual property. Copyrighting our project not only protects the unique aspects of our hate speech detection system but also reinforces our commitment to responsible AI research. By copyrighting this idea, we ensure that the methods, models, and technological advances developed through this project remain attributed to our team.
 
 ### Copyright Publication Date: 25th October 2024
 
@@ -188,7 +194,7 @@ Securing copyright for **DweshaMukt** marked an important milestone in safeguard
 
 ## 10. Project Funding 💸
 
-The **DweshaMukt** project was generously funded by **Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering and Technology College**, whose support played a pivotal role in enabling our team to bring this ambitious vision to life. This funding allowed us to access essential resources, collaborate with experts, and ensure high-quality development across every phase of the project. 
+This project was generously funded by **Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering and Technology College**, whose support played a pivotal role in enabling our team to bring this ambitious vision to life. This funding allowed us to access essential resources, collaborate with experts, and ensure high-quality development across every phase of the project. 
 
 ### Funding Breakdown 📜
 
@@ -198,14 +204,14 @@ The **DweshaMukt** project was generously funded by **Vidya Pratishthan's Kamaln
 | 2     | Online Courses                    | 2684        |
 | 3     | Project Presentation Competition  | 500         |
 | 4     | Stationary Cost                   | 500         |
-| **Total** |                               | **4709**    |
+|       |             **Total**             | **4709**    |
 
 ### Funding Certificate ✨
 <p align="center">
   <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Project%20Certifications/Project%20Funding/Project%20Funding%20Certificate.png" alt="Funding Certificate" width="45%" />
 </p>
 
-> *We extend our heartfelt gratitude to VPKBIET College for their trust and support. Their investment in DweshaMukt has been invaluable in pushing the boundaries of AI-driven hate speech detection.*
+> *The above provided certificate is custom designed and not officially presented by the college itself. We extend our heartfelt gratitude to VPKBIET College for their trust and support. Their investment in this project has been invaluable in pushing the boundaries of AI-driven hate speech detection.*
 
 ---
 
