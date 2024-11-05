@@ -42,7 +42,7 @@ The backend development was an intricate journey, involving months of rigorous r
 
 Our **Mark Model Index Document** provides a comprehensive overview of this journey, showcasing each model’s evolution, from early concepts to the final optimized versions. Dive into the document to see how each model was crafted, tested, and fine-tuned to tackle the challenges of multilingual, multimodal hate speech detection.
 
-[![Read the Full Mark Model Index Document](https://img.shields.io/badge/View-Mark%20Model%20Index%20Document-blue?style=for-the-badge&logo=Adobe)](https://github.com/StudiYash/DweshaMukt/blob/main/Mark%20Model%20Index.pdf)
+[![Read the Full Mark Model Index Document](https://img.shields.io/badge/View-Mark%20Model%20Index%20Document-blue?style=for-the-badge&logo=Adobe)](https://github.com/StudiYash/DweshaMukt/blob/main/Support%20Files/Mark%20Model%20Index.pdf)
 
 ---
 
@@ -101,7 +101,7 @@ The frontend for the DweshaMukt project is built as a **Streamlit** application,
 
 ### Main Dashboard
 
-<img src="https://github.com/StudiYash/DweshaMukt/blob/main/Project%20Frontend%20Dashboard.png" style="border: 2px solid white; width: 600px; height: 300px;" alt="Dashboard Screenshot">
+<img src="https://github.com/StudiYash/DweshaMukt/blob/main/Support%20Files/Project%20Frontend%20Dashboard.png" style="border: 2px solid white; width: 600px; height: 300px;" alt="Dashboard Screenshot">
 
 ---
 
