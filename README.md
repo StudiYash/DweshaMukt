@@ -46,11 +46,11 @@ The backend development was an intricate journey, involving months of rigorous r
 
 Our **Mark Model Index Document** provides a comprehensive overview of this journey, showcasing each model’s evolution, from early concepts to the final optimized versions. Dive into the document to see how each model was crafted, tested, and fine-tuned to tackle the challenges of multilingual, multimodal hate speech detection.
 
-[![Read the Full Mark Model Index Document](https://img.shields.io/badge/View-Mark%20Model%20Index%20Document-blue?style=for-the-badge)](https://github.com/StudiYash/DweshaMukt/blob/main/Mark%20Model%20Index.pdf)
+[![Read the Full Mark Model Index Document](https://img.shields.io/badge/View-Mark%20Model%20Index%20Document-blue?style=for-the-badge&logo=Adobe)](https://github.com/StudiYash/DweshaMukt/blob/main/Mark%20Model%20Index.pdf)
 
 ---
 
-## 3. Backend Explanation 🖥️
+## 3. Project Backend 🖥️
 
 The backend architecture of DweshaMukt enables the system to classify various forms of input **text, audio, video, images, GIFs, and live YouTube comments** by first converting each to text before applying the hate speech detection model. Here are the main scenarios handled by the system:
 
@@ -78,16 +78,12 @@ The **DweshaMukt Dataset** is a curated collection of comments carefully selecte
   - **Hate Comments**: 9,705
   - **Non-Hate Comments**: 13,272
 
----
-
 ### Access the Dataset
 To ensure responsible and secure usage, access to the DweshaMukt dataset is granted upon request. Please complete the form below to submit your application. We review each request to verify alignment with our project’s objectives.
 
 [![Dataset Requesting Google Form](https://img.shields.io/badge/Request%20Access-Fill%20Out%20Form-purple?style=for-the-badge&logo=google)](https://forms.gle/RHNkoFQx4W94tXN37)
 
 *Note: Approved requests will receive an email with download instructions within 2-3 business days.*
-
----
 
 ### Dataset Terms of Use
 By requesting access to this dataset, you agree to the following:
@@ -96,3 +92,23 @@ By requesting access to this dataset, you agree to the following:
 - Redistribution or sharing of the dataset with unauthorized parties is strictly prohibited.
 
 ---
+
+## 5. Project Frontend 🌐
+
+The frontend for the DweshaMukt project is built as a **Streamlit** application, allowing users to interact seamlessly with our hate speech detection models across various input formats. This interface makes it easy to submit and analyze **text, audio, video, images, GIFs, and YouTube comments**.
+
+---
+
+### Key Features
+- **Multi-format Detection**: Supports text, audio, video, images, GIFs, and YouTube comments.
+- **Real-time Analysis**: Provides immediate feedback on uploaded content.
+- **User-friendly Interface**: Simple navigation with clear instructions and dynamic visual feedback.
+- **Emoji Detection**: Enhanced detection with emoticon analysis.
+
+### Main Dashboard
+![Dashboard Screenshot](https://github.com/StudiYash/DweshaMukt/blob/main/Project%20Frontend%20Dashboard.png)
+
+[![Explore Frontend Repository](https://img.shields.io/badge/View-Frontend%20Repository-blue?style=for-the-badge&logo=github)](https://github.com/tanmay183/Hate_Speech_Detection_Hinglish)
+
+---
+
