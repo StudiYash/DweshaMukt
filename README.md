@@ -157,7 +157,7 @@ Presenting the **DweshaMukt** project at an international platform has been a mi
 
 **To read our Research Paper, press the button below.**
 
-[![Explore Telegram Bots](https://img.shields.io/badge/View-IEEE%20Research%20Paper-coral?style=for-the-badge&logo=IEEE)](#)
+[![Project Research Paper](https://img.shields.io/badge/View-IEEE%20Research%20Paper-coral?style=for-the-badge&logo=IEEE)](#)
 
 ### Conference Participation Certificates 🎓
 
@@ -209,3 +209,9 @@ The **DweshaMukt** project was generously funded by **Vidya Pratishthan's Kamaln
 
 ---
 
+## 11. Project Report 📔
+
+This project report is extremely detailed in terms of all the progress made till date in the project.
+The project report can be viewed by pressing the button below.
+
+[![Project Report](https://img.shields.io/badge/View-Project%20Report-blue?style=for-the-badge&logo=adobe)](https://github.com/StudiYash/DweshaMukt/blob/main/Support%20Files/Project%20Report%20Final_Draft_Sharable.pdf)
