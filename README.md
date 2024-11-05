@@ -101,7 +101,7 @@ The frontend for the DweshaMukt project is built as a **Streamlit** application,
 
 ### Main Dashboard
 
-<img src="https://github.com/StudiYash/DweshaMukt/blob/main/Project%20Frontend%20Dashboard.png" style="border: 2px solid white; width: 400px; height: 300px;" alt="Dashboard Screenshot">
+<img src="https://github.com/StudiYash/DweshaMukt/blob/main/Project%20Frontend%20Dashboard.png" style="border: 2px solid white; width: 600px; height: 300px;" alt="Dashboard Screenshot">
 
 ---
 
