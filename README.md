@@ -110,16 +110,22 @@ The frontend for the DweshaMukt project is built as a **Streamlit** application,
 The DweshaMukt project is also integrated with Telegram via multiple specialized bots, each dedicated to a specific input type, enabling users to classify various media types directly from the messaging platform:
 
 - **Haspe Text**: Processes text input.
+
 [![Explore Frontend Repository](https://img.shields.io/badge/Watch-Haspe%20Text%20Bot-white?style=for-the-badge&logo=YouTube)](https://youtu.be/GTeI_L9EeBM)
 - **Haspe Audio**: Processes audio input.
+
 [![Explore Frontend Repository](https://img.shields.io/badge/Watch-Haspe%20Audio%20Bot-magenta?style=for-the-badge&logo=YouTube)](https://youtu.be/mvFZ5Yckq28)
 - **Haspe Image**: Processes image input.
+
 [![Explore Frontend Repository](https://img.shields.io/badge/Watch-Haspe%20Image%20Bot-indigo?style=for-the-badge&logo=YouTube)](https://youtu.be/56sKWib-QTU)
 - **Haspe GIF**: Processes GIF input.
+
 [![Explore Frontend Repository](https://img.shields.io/badge/Watch-Haspe%20Gif%20Bot-gold?style=for-the-badge&logo=YouTube)](https://youtu.be/p0YH30J_Dgk)
 - **Haspe Video**: Processes video input.
+
 [![Explore Frontend Repository](https://img.shields.io/badge/Watch-Haspe%20Video%20Bot-blue?style=for-the-badge&logo=YouTube)](https://youtu.be/4y4jWDYZOoA)
 - **Haspe Youtube**: Processes YouTube live comments.
+
 [![Explore Frontend Repository](https://img.shields.io/badge/Watch-Haspe%20YouTube%20Bot-crimson?style=for-the-badge&logo=YouTube)](https://youtu.be/75ToOIsmgdg)
 
 Each bot interacts with the backend, sending results back to users in real-time.
