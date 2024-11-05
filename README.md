@@ -49,3 +49,33 @@ Our **Mark Model Index Document** provides a comprehensive overview of this jour
 [![Read the Full Mark Model Index Document](https://img.shields.io/badge/View-Mark%20Model%20Index%20Document-blue?style=for-the-badge)](https://github.com/StudiYash/DweshaMukt/blob/main/Mark%20Model%20Index.pdf)
 
 ---
+
+## 3. Backend Explanation 🖥️
+
+The backend architecture of DweshaMukt enables the system to classify various forms of input **text, audio, video, images, GIFs, and live YouTube comments** by first converting each to text before applying the hate speech detection model. Here are the main scenarios handled by the system:
+
+1. **Text Input**: Processes user-entered text directly.
+2. **Audio Input**: Converts audio to text using `Google Speech to Text API`, then classifies it.
+3. **Image Input**: Extracts text from images via `Google Cloud Vision API`.
+4. **GIF Input**: Analyzes GIFs using `Google Video Intelligence API` for text extraction.
+5. **Video Input**: Extracts audio from videos, transcribes it, and classifies it.
+6. **Live YouTube Video**: Fetches live comments using `pytchat` library, then classifies them.
+
+The combined code integrates all these scenarios into a unified detection system, including added emoticon-based classification for enhanced accuracy.
+
+---
+
+## 4. Project Dataset 📊
+
+### Mark 12 Saved Model 3 Dataset Details
+- **Datasets Used**: CONSTRAINT 2021 and Hindi Hate Speech Detection (HHSD)
+- **Total Comments**: 22,977
+  - **Hate**: 9,705 comments
+  - **Non-Hate**: 13,272 comments
+
+![Dataset Graph](https://github.com/StudiYash/DweshaMukt/blob/main/Dataset%20Details.png)  
+[](https://forms.gle/RHNkoFQx4W94tXN37)
+
+[![Dataset Requesting Google Form](https://img.shields.io/badge/Fill-Dataset%20Requesting%20Google%20Form-purple?style=for-the-badge)](https://forms.gle/RHNkoFQx4W94tXN37)
+
+---
