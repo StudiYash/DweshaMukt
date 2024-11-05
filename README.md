@@ -170,3 +170,20 @@ The following certificates were awarded for our participation and representation
 > *Showcasing our work at a conference of this caliber allowed us to share our vision for hate speech detection with an international audience, gaining invaluable feedback and recognition.*
 
 ---
+
+## 9. Project Copyright ©️
+
+Securing copyright for **DweshaMukt** marked an important milestone in safeguarding our innovation and intellectual property. Copyrighting our project not only protects the unique aspects of our hate speech detection system but also reinforces our commitment to responsible AI research. By copyrighting this idea, we ensure that the methods, models, and technological advances developed through this project remain attributed to our team.
+
+### Copyright Publication Date: 25th October 2024
+
+### Certificate of Copyright 🎓
+<p align="center">
+  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Project%20Certifications/Project%20Copyright/Copyright%20Certificate.png" alt="Copyright Certificate" width="60%" />
+</p>
+
+> *Establishing copyright protection is a proactive step towards fostering innovation, ensuring recognition, and laying a foundation for future advancements in hate speech detection.*
+
+---
+
+
