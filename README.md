@@ -186,4 +186,26 @@ Securing copyright for **DweshaMukt** marked an important milestone in safeguard
 
 ---
 
+## 10. Project Funding 💸
+
+The **DweshaMukt** project was generously funded by **Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering and Technology College**, whose support played a pivotal role in enabling our team to bring this ambitious vision to life. This funding allowed us to access essential resources, collaborate with experts, and ensure high-quality development across every phase of the project. 
+
+### Funding Breakdown 📜
+
+| Sr No | Demand Reason                     | Demand Cost |
+|-------|-----------------------------------|-------------|
+| 1     | Google Colab Pro                  | 1025        |
+| 2     | Online Courses                    | 2684        |
+| 3     | Project Presentation Competition  | 500         |
+| 4     | Stationary Cost                   | 500         |
+| **Total** |                               | **4709**    |
+
+### Funding Certificate ✨
+<p align="center">
+  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Project%20Certifications/Project%20Funding/Project%20Funding%20Certificate.png" alt="Funding Certificate" width="45%" />
+</p>
+
+> *We extend our heartfelt gratitude to VPKBIET College for their trust and support. Their investment in DweshaMukt has been invaluable in pushing the boundaries of AI-driven hate speech detection.*
+
+---
 
