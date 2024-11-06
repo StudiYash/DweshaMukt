@@ -136,12 +136,12 @@ Representing this project at Nexus 1.0 allowed our team to not only share our re
 Below are the participation certificates awarded to our team members for presenting DweshaMukt at Nexus 1.0.
 
 <p align="center">
-  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Project%20Certifications/Project%20Representation/Nexus%201.0%20State%20Level%20Competetion/Yash.png" alt="Certificate 1" width="45%" />
-  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Project%20Certifications/Project%20Representation/Nexus%201.0%20State%20Level%20Competetion/Tanmay.png" alt="Certificate 2" width="45%" />
+  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Certifications/Project%20Representation/Nexus%201.0%20State%20Level%20Competetion/Yash.png" alt="Certificate 1" width="45%" />
+  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Certifications/Project%20Representation/Nexus%201.0%20State%20Level%20Competetion/Tanmay.png" alt="Certificate 2" width="45%" />
 </p>
 <p align="center">
-  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Project%20Certifications/Project%20Representation/Nexus%201.0%20State%20Level%20Competetion/Suyash.png" alt="Certificate 3" width="45%" />
-  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Project%20Certifications/Project%20Representation/Nexus%201.0%20State%20Level%20Competetion/Prathamesh.png" alt="Certificate 4" width="45%" />
+  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Certifications/Project%20Representation/Nexus%201.0%20State%20Level%20Competetion/Suyash.png" alt="Certificate 3" width="45%" />
+  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Certifications/Project%20Representation/Nexus%201.0%20State%20Level%20Competetion/Prathamesh.png" alt="Certificate 4" width="45%" />
 </p>
 
 ---
@@ -169,7 +169,7 @@ To read our Research Paper, press the button below.
 The following certificate was awarded for my participation and representation at CVMI-2024:
 
 <p align="center">
-  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Project%20Certifications/Project%20Conference/Project%20Conference%20Certificate%20Yash.jpg" alt="Certificate 1" width="75%" />
+  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Certifications/Project%20Conference/Project%20Conference%20Certificate%20Yash.jpg" alt="Certificate 1" width="75%" />
 </p>
 
 > *Showcasing our work at a conference of this caliber allowed us to share our vision for hate speech detection with an international audience, gaining invaluable feedback and recognition.*
@@ -184,7 +184,7 @@ Securing copyright for this project marked an important milestone in safeguardin
 
 ### Certificate of Copyright 🎓
 <p align="center">
-  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Project%20Certifications/Project%20Copyright/Copyright%20Certificate.png" alt="Copyright Certificate" width="60%" />
+  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Certifications/Project%20Copyright/Copyright%20Certificate.png" alt="Copyright Certificate" width="60%" />
 </p>
 
 > *Establishing copyright protection is a proactive step towards fostering innovation, ensuring recognition, and laying a foundation for future advancements in hate speech detection.*
@@ -207,7 +207,7 @@ This project was generously funded by **Vidya Pratishthan's Kamalnayan Bajaj Ins
 
 ### Funding Certificate ✨
 <p align="center">
-  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Project%20Certifications/Project%20Funding/Project%20Funding%20Certificate.png" alt="Funding Certificate" width="45%" />
+  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Certifications/Project%20Funding/Project%20Funding%20Certificate.png" alt="Funding Certificate" width="45%" />
 </p>
 
 > *The above provided certificate is custom designed and not officially presented by the college itself. We extend our heartfelt gratitude to VPKBIET College for their trust and support. Their investment in this project has been invaluable in pushing the boundaries of AI-driven hate speech detection.*
