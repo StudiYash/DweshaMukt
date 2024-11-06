@@ -23,12 +23,12 @@ Use the buttons below to access the sample files for each input type:
 
 | Input Type   | Test Files |
 |--------------|------------|
-| **Text**     | [![Text Test Inputs](https://img.shields.io/badge/View-Text%20Files-blue?style=for-the-badge)](./Text) |
-| **Audio**    | [![Audio Test Inputs](https://img.shields.io/badge/View-Audio%20Files-green?style=for-the-badge)](./Audio) |
-| **Image**    | [![Image Test Inputs](https://img.shields.io/badge/View-Image%20Files-yellow?style=for-the-badge)](./Image) |
-| **GIF**      | [![GIF Test Inputs](https://img.shields.io/badge/View-GIF%20Files-orange?style=for-the-badge)](./GIF) |
-| **Video**    | [![Video Test Inputs](https://img.shields.io/badge/View-Video%20Files-red?style=for-the-badge)](./Video) |
-| **YouTube**  | [![YouTube Test Inputs](https://img.shields.io/badge/View-YouTube%20Files-purple?style=for-the-badge)](./YouTube) |
+| **Text**     | [![Text Test Inputs](https://img.shields.io/badge/View-Text%20Files-white?style=for-the-badge)](https://github.com/StudiYash/DweshaMukt/tree/main/Project%20Test%20Inputs/Text) |
+| **Audio**    | [![Audio Test Inputs](https://img.shields.io/badge/View-Audio%20Files-magenta?style=for-the-badge)](https://github.com/StudiYash/DweshaMukt/tree/main/Project%20Test%20Inputs/Audios) |
+| **Image**    | [![Image Test Inputs](https://img.shields.io/badge/View-Image%20Files-indigo?style=for-the-badge)](https://github.com/StudiYash/DweshaMukt/tree/main/Project%20Test%20Inputs/Images) |
+| **GIF**      | [![GIF Test Inputs](https://img.shields.io/badge/View-GIF%20Files-gold?style=for-the-badge)](https://github.com/StudiYash/DweshaMukt/tree/main/Project%20Test%20Inputs/GIFs) |
+| **Video**    | [![Video Test Inputs](https://img.shields.io/badge/View-Video%20Files-blue?style=for-the-badge)](https://github.com/StudiYash/DweshaMukt/tree/main/Project%20Test%20Inputs/Videos) |
+| **YouTube**  | [![YouTube Test Inputs](https://img.shields.io/badge/View-YouTube%20Files-crimson?style=for-the-badge)](https://github.com/StudiYash/DweshaMukt/tree/main/Project%20Test%20Inputs/YouTube) |
 
 > *Click on any of the buttons above to directly access the corresponding test inputs folder.*
 
