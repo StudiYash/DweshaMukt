@@ -16,7 +16,7 @@ Below is a list of individuals who have contributed to DweshaMukt:
 
 ### Core Contributors
 
-- **[Yash Shukla](https://github.com/StudiYash)** - Research, Documentation, Data Collection, Dataset Preparation, Backend Development, Telegram Bots Development, Project Funding Management, Conference Presenter, Copyright First Author, Research Paper First Author
+- **[Yash Shukla](https://github.com/StudiYash)** - Project Leader, Research, Documentation, Data Collection, Dataset Preparation, Backend Development, Telegram Bots Development, Project Funding Management, Conference Presenter, Copyright First Author, Research Paper First Author
 
 - **[Tanmay Nigade](https://github.com/tanmay183)** - Research, Documentation, Data Collection, Dataset Preparation, Backend Developer, Frontend Development, Conference Presenter, Copyright Second Author, Research Paper Third Author
 
