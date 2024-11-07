@@ -207,7 +207,7 @@ This project was generously funded by **Vidya Pratishthan's Kamalnayan Bajaj Ins
 
 ### Funding Certificate ✨
 <p align="center">
-  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Certifications/Project%20Funding/Project%20Funding%20Certificate.png" alt="Funding Certificate" width="45%" />
+  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Certifications/Project%20Funding/Project%20Funding%20Certificate.png" alt="Funding Certificate" width="60%" />
 </p>
 
 > *The above provided certificate is custom designed and not officially presented by the college itself. We extend our heartfelt gratitude to VPKBIET College for their trust and support. Their investment in this project has been invaluable in pushing the boundaries of AI-driven hate speech detection.*
