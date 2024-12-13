@@ -14,8 +14,8 @@ With an accuracy of **88%**, DweshaMukt stands as a promising solution for real-
 ### Project Timeline 📅
 
 - **Start Date**: 15th February 2023
-- **End Date**: 20th October 2024
-- **Total Time Required**: 1 Year, 8 Months, and 5 Days
+- **End Date**: 12th December 2024
+- **Total Time Required**: 1 Year, 9 Months, and 28 Days
 
 ### Team Members 👥
 
@@ -162,7 +162,7 @@ The conference report details our experiences and learnings from the event, incl
 ### Project Research Paper:
 To read our Research Paper, press the button below.
 
-[![Project Research Paper](https://img.shields.io/badge/View-IEEE%20Research%20Paper-coral?style=for-the-badge&logo=IEEE)](#)
+[![Project Research Paper](https://img.shields.io/badge/View-IEEE%20Research%20Paper-coral?style=for-the-badge&logo=IEEE)](https://ieeexplore.ieee.org/document/10782783)
 
 ### Conference Participation Certificates 🎓
 
