@@ -5,7 +5,7 @@ from transformers import TFBertForSequenceClassification, BertTokenizer
 import tensorflow as tf
 import numpy as np
 
-api_key = 'AIzaSyCT3L9-oCBqK0E8Ie6elGi4y6KKZd5gSnY'
+api_key = 'api_key'
 
 # Function to load the model and tokenizer
 def load_model_and_predict(text):
