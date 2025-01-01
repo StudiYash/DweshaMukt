@@ -157,6 +157,15 @@ The frontend for this project is built as a **Streamlit** application, allowing 
 - **User-friendly Interface**: Simple navigation with clear instructions and dynamic visual feedback.
 - **Emoji Detection**: Enhanced detection with emoticon analysis.
 
+| Bot Name          | Description                              | Watch in Action |
+|-------------------|------------------------------------------|-----------------|
+| **Text Frontend**    | Processes text input.                    | [![Watch Text Frontend](https://img.shields.io/badge/Watch-Haspe%20Text%20Bot-white?style=for-the-badge&logo=YouTube)](https://youtu.be/sj4sloqjrp0?si=9-aDAUwBaCw2TtWJ) |
+| **Audio Frontend**   | Processes audio input.                   | [![Watch Audio Frontend](https://img.shields.io/badge/Watch-Haspe%20Audio%20Bot-magenta?style=for-the-badge&logo=YouTube)](https://youtu.be/qLkZnnZxUIs?si=g-chiiKRytZ7oETw) |
+| **Image Frontend**   | Processes image input.                   | [![Watch Image Frontend](https://img.shields.io/badge/Watch-Haspe%20Image%20Bot-indigo?style=for-the-badge&logo=YouTube)](https://youtu.be/8qrNRBQR9eE?si=qirdFIe6XV4F9MfH) |
+| **GIF Frontend**     | Processes GIF input.                     | [![Watch GIF Frontend](https://img.shields.io/badge/Watch-Haspe%20Gif%20Bot-gold?style=for-the-badge&logo=YouTube)](https://youtu.be/c67fxomBWOs?si=e6wvLw9iG28VIxlp) |
+| **Video Frontend**   | Processes video input.                   | [![Watch Video Frontend](https://img.shields.io/badge/Watch-Haspe%20Video%20Bot-blue?style=for-the-badge&logo=YouTube)](https://youtu.be/EBTcEdb98ZA?si=LjbXQMGdY0lD0rdx) |
+| **YouTube Frontend** | Processes existing YouTube comments.     | [![Watch YouTube Frontend](https://img.shields.io/badge/Watch-Haspe%20YouTube%20Bot-crimson?style=for-the-badge&logo=YouTube)](https://youtu.be/9eICn3HgVs8?si=Vd375i5hiZB-fy88) |
+
 [![Explore Project Frontend](https://img.shields.io/badge/View-Project%20Frontend-blue?style=for-the-badge&logo=github)](https://github.com/StudiYash/DweshaMukt/tree/main/Project%20Frontend)
 
 ### Main Dashboard
