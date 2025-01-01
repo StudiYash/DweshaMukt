@@ -110,7 +110,7 @@ def video_classification_function():
             st.error("No text recognized.")
 
         # Load the hate speech classification model and tokenizer
-        model_directory = r'C:\Users\Tanmay Nigade\Downloads\Hate Speech Hinglish Laguage\hate_speech_model'
+        model_directory = r'hate_speech_model'
         loaded_model = TFBertForSequenceClassification.from_pretrained(model_directory)
         loaded_tokenizer = BertTokenizer.from_pretrained(model_directory)
 

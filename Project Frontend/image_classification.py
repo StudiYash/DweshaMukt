@@ -8,20 +8,20 @@ import numpy as np
 import re
 
 # Set Tesseract path
-tess.pytesseract.tesseract_cmd = r'C:\Users\Tanmay Nigade\AppData\Local\Programs\Tesseract-OCR\tesseract.exe'
+tess.pytesseract.tesseract_cmd = r'C:\Users\Username\AppData\Local\Programs\Tesseract-OCR\tesseract.exe'
 
 # Function to load the model and make prediction
 def load_model_and_predict(text):
-    model_directory = r'C:\Users\Tanmay Nigade\Downloads\Hate Speech Hinglish Laguage\hate_speech_model'
+    model_directory = r'hate_speech_model'
     loaded_model = TFBertForSequenceClassification.from_pretrained(model_directory)
     loaded_tokenizer = BertTokenizer.from_pretrained(model_directory)
 
     # Load the TensorFlow model
-    tf_model_filename = r'C:\Users\Tanmay Nigade\Downloads\Hate Speech Hinglish Laguage\tf_model.h5'
+    tf_model_filename = r'tf_model.h5'
     loaded_model.load_weights(tf_model_filename)
 
     # Load the label encoder
-    label_encoder_filename = r'C:\Users\Tanmay Nigade\Downloads\Hate Speech Hinglish Laguage\label_encoder.pkl'
+    label_encoder_filename = r'label_encoder.pkl'
     loaded_label_encoder = joblib.load(label_encoder_filename)
 
     # Tokenize and preprocess the input text

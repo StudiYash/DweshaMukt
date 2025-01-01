@@ -9,16 +9,16 @@ api_key = 'api_key'
 
 # Function to load the model and tokenizer
 def load_model_and_predict(text):
-    model_directory = r'C:\Users\Tanmay Nigade\Downloads\Hate Speech Hinglish Laguage\hate_speech_model'
+    model_directory = r'hate_speech_model'
     loaded_model = TFBertForSequenceClassification.from_pretrained(model_directory)
     loaded_tokenizer = BertTokenizer.from_pretrained(model_directory)
 
     # Load the TensorFlow model
-    tf_model_filename = r'C:\Users\Tanmay Nigade\Downloads\Hate Speech Hinglish Laguage\tf_model.h5'
+    tf_model_filename = r'tf_model.h5'
     loaded_model.load_weights(tf_model_filename)
 
     # Load the label encoder
-    label_encoder_filename = r'C:\Users\Tanmay Nigade\Downloads\Hate Speech Hinglish Laguage\label_encoder.pkl'
+    label_encoder_filename = r'label_encoder.pkl'
     loaded_label_encoder = joblib.load(label_encoder_filename)
 
     # Tokenize and preprocess the input text

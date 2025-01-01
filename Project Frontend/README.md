@@ -7,9 +7,9 @@ Welcome to the **Project Frontend** folder of the DweshaMukt project! This folde
 ## Table of Contents
 - [Requirements](#requirements)
 - [Setup Instructions](#setup-instructions)
-- [Running the Code](#running-the-code)
 - [File and Path Changes](#file-and-path-changes)
 - [Important Notes](#important-notes)
+- [Watch in Action](#watch-frontend-in-action)
 
 ---
 
