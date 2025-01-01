@@ -39,7 +39,7 @@ Completing this project was indeed a challenging task, and we deeply appreciate 
 
 Hate speech detection has become a critical area of research in recent years, driven by the proliferation of social media platforms where users frequently engage in discussions that transcend linguistic boundaries. This has created unique challenges, particularly in detecting hate speech within code-switched and multilingual contexts. Numerous studies have tackled this issue by employing advanced machine learning and deep learning techniques, striving to enhance the accuracy and robustness of hate speech classifiers. This section highlights significant contributions in this field, with a focus on methodologies and outcomes that address the complexities of hate speech detection in mixed-language data.
 
-<img src="https://github.com/StudiYash/DweshaMukt/blob/main/Support%20Files/Project%20Related%20Work.png" style="border: 2px solid black; width: 800px; height: 600px;" alt="Dashboard Screenshot">
+<img src="https://github.com/StudiYash/DweshaMukt/blob/main/Support%20Files/Project%20Related%20Work.png" style="border: 2px solid black; width: 800px; height: 600px;" alt="Project Related Work">
 
 ---
 
@@ -88,7 +88,9 @@ Our model processes multiple media types for hate speech detection:
 
 This pipeline integrates NLP and DL techniques for detecting hate speech in Hinglish, leveraging BERT for multilingual and code-mixed processing with robust performance across diverse media types.
 
-<img src="https://github.com/StudiYash/DweshaMukt/blob/main/Support%20Files/Project%20Methodology.jpg" style="border: 2px solid black; width: 600px; height: 300px;" alt="Dashboard Screenshot">
+<p align="center">
+<img src="https://github.com/StudiYash/DweshaMukt/blob/main/Support%20Files/Project%20Methodology.jpg" style="border: 2px solid black; width: 800px; height: 300px;" alt="Dashboard Screenshot">
+</p>
 
 ---
 
@@ -159,7 +161,9 @@ The frontend for this project is built as a **Streamlit** application, allowing 
 
 ### Main Dashboard
 
-<img src="https://github.com/StudiYash/DweshaMukt/blob/main/Support%20Files/Project%20Frontend%20Dashboard.png" style="border: 2px solid white; width: 600px; height: 300px;" alt="Dashboard Screenshot">
+<p align="center">
+<img src="https://github.com/StudiYash/DweshaMukt/blob/main/Support%20Files/Project%20Frontend%20Dashboard.png" style="border: 10px solid white; width: 600px; height: 300px;" alt="Project Frontend Dashboard">
+</p>
 
 ---
 
@@ -209,7 +213,11 @@ This setup enabled efficient training and testing of the hate speech detection m
 ## Experiment Results ♟️
 
 The performance of our model on the test set is summarized in the table below:
-<img src="https://github.com/StudiYash/DweshaMukt/blob/main/Support%20Files/Project%20Results.png" style="border: 2px solid black; width: 400px; height: 200px;" alt="Dashboard Screenshot">
+
+| Class | Precision | Recall | F1-score | Support |
+|-------|-----------|--------|----------|---------|
+| no    | 0.85      | 0.88   | 0.86     | 2922    |
+| yes   | 0.91      | 0.88   | 0.90     | 3970    |
 
 The overall accuracy of our model is **0.88**, with a macro average of **0.59** and a weighted average of **0.88**.
 
@@ -224,7 +232,14 @@ Model Performance
     - **Non-Hate (No):** Precision = 0.91, Recall = 0.88
     These results demonstrate the model’s robustness in identifying hate speech, making it highly effective for monitoring social media.
 
-<img src="https://github.com/StudiYash/DweshaMukt/blob/main/Support%20Files/Project%20Discussion.png" style="border: 2px solid black; width: 400px; height: 400px;" alt="Dashboard Screenshot">
+| Model                                              | Accuracy |
+|----------------------------------------------------|----------|
+| Logistic Regression (TF-IDF Vectorizer) [5]       | 0.731    |
+| Support Vector Machine (TF-IDF Vectorizer) [5]    | 0.741    |
+| Machine Learning Ensemble (TF-IDF Vectorizer) [5] | 0.727    |
+| CNN with 100D embeddings [5]                      | 0.827    |
+| BERT without Tensorflow                           | 0.723    |
+| BERT with Tensorflow (proposed method)            | 0.88     |
 
 ---
 
