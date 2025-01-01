@@ -1,0 +1,47 @@
+/* styles.css */
+
+/* Add border around the image */
+img {
+    border: 5px solid #555;
+}
+
+/* Add hover effect on sidebar elements */
+.sidebar .sidebar-content .row-widget.stRadio label:hover {
+    background-color: #f0f0f0;
+    cursor: pointer;
+    font-size: large;
+}
+
+
+/* Add any other styles you need */
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    font-size: large;
+}
+
+
+h1 {
+    color: #007bff;
+}
+
+.home-container {
+    background-color: #933c93; /* Background color for Home page */
+    font-size: medium;
+}
+
+.check-model-container {
+    background-color: rgb(215, 117, 211);
+    
+}
+
+.about-us-container {
+    background-color: #f9ebea; /* Background color for About Us page */
+    padding: 20px;
+    border-radius: 10px;
+}
+.predicted-label {
+    border: 2px solid #007bff; /* Border style and color */
+    padding: 10px; /* Padding around the label */
+    border-radius: 5px; /* Rounded corners for the border */
+}
