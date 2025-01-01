@@ -1,0 +1,13 @@
+streamlit
+Pillow
+transformers
+tensorflow
+numpy
+joblib
+google-api-python-client
+google-cloud-videointelligence
+pytesseract
+moviepy
+speechrecognition
+pydub
+pytube
