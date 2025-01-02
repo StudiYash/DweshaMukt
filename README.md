@@ -49,6 +49,10 @@ Hate speech detection has become a critical area of research in recent years, dr
 
 ## Methodology ✨
 
+<p align="center">
+<img src="https://github.com/StudiYash/DweshaMukt/blob/main/Support%20Files/Project%20Methodology.jpg" style="border: 2px solid black; width: 800px; height: 300px;" alt="Project Methodology">
+</p>
+
 ### Input:
 
 Our model processes multiple media types for hate speech detection:
@@ -91,10 +95,6 @@ Our model processes multiple media types for hate speech detection:
 ### Conclusion:
 
 This pipeline integrates NLP and DL techniques for detecting hate speech in Hinglish, leveraging BERT for multilingual and code-mixed processing with robust performance across diverse media types.
-
-<p align="center">
-<img src="https://github.com/StudiYash/DweshaMukt/blob/main/Support%20Files/Project%20Methodology.jpg" style="border: 2px solid black; width: 800px; height: 300px;" alt="Dashboard Screenshot">
-</p>
 
 ---
 
