@@ -322,9 +322,13 @@ The conference report details our experiences and learnings from the event, incl
 [![Project Conference Report](https://img.shields.io/badge/View-Conference%20Report-brown?style=for-the-badge&logo=Adobe)](https://github.com/StudiYash/DweshaMukt/blob/main/Support%20Files/Conference%20Report.pdf)
 
 ### Project Research Paper:
-To read our Research Paper, press the button below.
+To read our Research Paper on IEEE Xplore Website, press the button below.
 
-[![Project Research Paper](https://img.shields.io/badge/View-IEEE%20Research%20Paper-coral?style=for-the-badge&logo=IEEE)](https://ieeexplore.ieee.org/document/10782783)
+[![Project Research Paper](https://img.shields.io/badge/View-IEEE%20Research%20Paper-orange?style=for-the-badge&logo=IEEE)](https://ieeexplore.ieee.org/document/10782783)
+
+To view the entire official IEEE Research Paper Copy downloaded from IEEE Website, press the button below.
+
+[![Project Research Paper](https://img.shields.io/badge/View-IEEE%20Research%20Paper%20Copy-gold?style=for-the-badge&logo=Adobe)](https://github.com/StudiYash/DweshaMukt/blob/main/Support%20Files/IEEE%20Paper%20Published%20Copy%20Official.pdf)
 
 ### Conference Participation Certificates 🎓
 
