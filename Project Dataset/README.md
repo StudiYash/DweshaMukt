@@ -7,9 +7,9 @@ The **DweshaMukt Dataset** is a curated collection of comments carefully selecte
 
 ### Dataset Composition
 - **Datasets Used**: CONSTRAINT 2021 and Hindi Hate Speech Detection (HHSD)
-- **Total Comments**: 22,977
-  - **Hate Comments**: 9,705
-  - **Non-Hate Comments**: 13,272
+<p align="center">
+<img src="https://github.com/StudiYash/DweshaMukt/blob/main/Project%20Dataset/Hate%20and%20Non-Hate%20Spiral%20Chart.png" style="border: 2px solid black; width: 400px; height: 400px;" alt="Spiral Chart Project Dataset">
+</p>
 
 ### Access the Dataset
 To ensure responsible and secure usage, access to the DweshaMukt dataset is granted upon request. Please complete the form below to submit your application. We review each request to verify alignment with our project’s objectives.
