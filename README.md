@@ -34,7 +34,7 @@ With an accuracy of **88%**, DweshaMukt stands as a promising solution for real-
 Completing this project was indeed a challenging task, and we deeply appreciate **Prof. Rajkumar Panchal Sir** for being our mentor. He guided us through every phase of the project, and his support was invaluable.
 
 <div align="center">
-  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Project%20Frontend/about%20us.gif" alt="Introduction GIF" width="800" height="450">
+  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Support%20Files/About%20Us.gif" alt="Introduction GIF" width="800" height="450">
 </div>
 
 ---
