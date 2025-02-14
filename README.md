@@ -319,7 +319,7 @@ To refer the code of these telegram bots, press the button below.
     Below is the Best Overall Project Winner Certificate awarded to **Yash Shukla** for presenting DweshaMukt at ReadyTensor Computer Vision Projects Expo 2024.
 
     <p align="center">
-    <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Certificates/ReadyTensor%20Computer%20Vision%20Projects%20Expo%202024/Yash.jpg" alt="ReadyTensor 2024 Winner Certificate" width="60%" />
+    <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Certifications/Project%20Representation/ReadyTensor%20Computer%20Vision%20Projects%20Expo%202024/Yash.jpg" alt="ReadyTensor 2024 Winner Certificate" width="75%" />
     </p>
 
 2. **Nexus 1.0 State Level Project Competition**
