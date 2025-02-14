@@ -293,21 +293,52 @@ To refer the code of these telegram bots, press the button below.
 
 ## Project Representation 🎉
 
-The **DweshaMukt** project was proudly showcased at the **Nexus 1.0 State Level Project Competition** on **15th April 2024**. Held at the **Army Institute of Technology, Pune**, this prestigious event was organized by the Department of Information Technology and Computer Engineering under the **AIT ACM Student Chapter**.
+1. **ReadyTensor International Computer Vision Projects Expo 2024**
 
-Representing this project at Nexus 1.0 allowed our team to not only share our research and technical achievements but also to raise awareness about the importance of addressing hate speech in today’s digital world. Competitions like these offer valuable platforms for knowledge exchange, constructive feedback, and networking with other innovators, researchers, and industry experts.
+    The **DweshaMukt** project was proudly showcased at the **ReadyTensor Computer Vision Projects Expo 2024**, a prestigious competition recognizing groundbreaking innovations in **Computer Vision and AI**. The event received **over 500 submissions** from top AI researchers and practitioners worldwide.
+    The **DweshaMukt** project was proudly showcased at the **ReadyTensor Computer Vision Projects Expo 2024**, a prestigious competition recognizing groundbreaking innovations in **Computer Vision and AI.** The event received **over 500 submissions** from top AI researchers and practitioners worldwide. Project Team Leader, **Yash Shukla**, was honored to be part of an **exclusive group of practitioners and researchers invited to participate** based on his expertise in computer vision and machine learning.
 
-### Participation Certificates 🏆
-Below are the participation certificates awarded to our team members for presenting DweshaMukt at Nexus 1.0.
+    Among these competitive submissions, **DweshaMukt** was selected as one of the **4 Best Overall Projects**, securing a **$500 cash prize**. I was the **sole representative** of this project at the competition, making this recognition an even greater honor.
 
-<p align="center">
-  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Certifications/Project%20Representation/Nexus%201.0%20State%20Level%20Competetion/Yash.png" alt="Certificate 1" width="45%" />
-  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Certifications/Project%20Representation/Nexus%201.0%20State%20Level%20Competetion/Tanmay.png" alt="Certificate 2" width="45%" />
-</p>
-<p align="center">
-  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Certifications/Project%20Representation/Nexus%201.0%20State%20Level%20Competetion/Suyash.png" alt="Certificate 3" width="45%" />
-  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Certifications/Project%20Representation/Nexus%201.0%20State%20Level%20Competetion/Prathamesh.png" alt="Certificate 4" width="45%" />
-</p>
+    ### **Competition Details** 🏅 
+    - **Event**: ReadyTensor Computer Vision Projects Expo 2024
+    - **Total Submissions**: 500+ AI-driven projects
+    - **Award Category**: **Best Overall Project** (4 winners)
+    - **Prize**: $500 cash reward + digital certificate + exclusive winner badge
+    - **Solo Representation**: Project team leader **Yash Shukla** had the privilege of representing this project **independently** at the competition, showcasing the collective efforts and innovation behind DweshaMukt.
+
+    ### **Recognition & Perks** 🏆 
+    As a winner, **Yash Shukla** received:
+
+    ✅ **Cash Prize** – A monetary reward of **$500**  
+    ✅ **Digital Certificate** – Highlighting this achievement for professional recognition  
+    ✅ **Exclusive Winner Badge** – To showcase this success in the AI community  
+    ✅ **Community Spotlight** – Project was featured in ReadyTensor’s newsletter and social media
+
+    ### Best Overall Project Winner Certificate 🏆
+    Below is the Best Overall Project Winner Certificate awarded to **Yash Shukla** for presenting DweshaMukt at ReadyTensor Computer Vision Projects Expo 2024.
+
+    <p align="center">
+    <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Certificates/ReadyTensor%20Computer%20Vision%20Projects%20Expo%202024/Yash.jpg" alt="ReadyTensor 2024 Winner Certificate" width="60%" />
+    </p>
+
+2. **Nexus 1.0 State Level Project Competition**
+
+    The **DweshaMukt** project was proudly showcased at the **Nexus 1.0 State Level Project Competition** on **15th April 2024**. Held at the **Army Institute of Technology, Pune**, this prestigious event was organized by the Department of Information Technology and Computer Engineering under the **AIT ACM Student Chapter**.
+
+    Representing this project at Nexus 1.0 allowed our team to not only share our research and technical achievements but also to raise awareness about the importance of addressing hate speech in today’s digital world. Competitions like these offer valuable platforms for knowledge exchange, constructive feedback, and networking with other innovators, researchers, and industry experts.
+
+    ### Participation Certificates 🏆
+    Below are the participation certificates awarded to our team members for presenting DweshaMukt at Nexus 1.0.
+
+    <p align="center">
+      <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Certifications/Project%20Representation/Nexus%201.0%20State%20Level%20Competetion/Yash.png" alt="Certificate 1" width="45%" />
+      <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Certifications/Project%20Representation/Nexus%201.0%20State%20Level%20Competetion/Tanmay.png" alt="Certificate 2" width="45%" />
+    </p>
+    <p align="center">
+      <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Certifications/Project%20Representation/Nexus%201.0%20State%20Level%20Competetion/Suyash.png" alt="Certificate 3" width="45%" />
+      <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Certifications/Project%20Representation/Nexus%201.0%20State%20Level%20Competetion/Prathamesh.png" alt="Certificate 4" width="45%" />
+    </p>
 
 ---
 
