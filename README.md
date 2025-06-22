@@ -364,12 +364,22 @@ To view the entire official IEEE Research Paper Copy downloaded from IEEE Websit
 
 [![Project Research Paper](https://img.shields.io/badge/View-IEEE%20Research%20Paper%20Copy-gold?style=for-the-badge&logo=Adobe)](https://github.com/StudiYash/DweshaMukt/blob/main/Support%20Files/IEEE%20Paper%20Published%20Copy%20Official.pdf)
 
-### Conference Participation Certificates 🎓
+### Conference Paper Review Certificate 🎓
+
+The following certificate was awarded for my participation in paper reviewing of peers at CVMI-2024:
+
+<p align="center">
+  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Certifications/Project%20Conference/Project%20Conference%20Certificate%20Paper%20Reviewer%20Yash.jpg" alt="Certificate 1" width="75%" />
+</p>
+
+> *Contributing to the peer-review process at CVMI-2024 offered a valuable opportunity to critically evaluate cutting-edge research, uphold academic integrity, and support the global computer vision and AI research community.*
+
+### Conference Participation Certificate 🎓
 
 The following certificate was awarded for my participation and representation at CVMI-2024:
 
 <p align="center">
-  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Certifications/Project%20Conference/Project%20Conference%20Certificate%20Yash.jpg" alt="Certificate 1" width="75%" />
+  <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Certifications/Project%20Conference/Project%20Conference%20Certificate%20Yash.jpg" alt="Certificate 2" width="75%" />
 </p>
 
 > *Showcasing our work at a conference of this caliber allowed us to share our vision for hate speech detection with an international audience, gaining invaluable feedback and recognition.*
