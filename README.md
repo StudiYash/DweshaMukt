@@ -409,18 +409,19 @@ This project was generously funded by **Vidya Pratishthan's Kamalnayan Bajaj Ins
 
 | Sr No | Demand Reason                     | Demand Cost |
 |-------|-----------------------------------|-------------|
-| 1     | Google Colab Pro                  | 1025        |
-| 2     | Online Courses                    | 2684        |
-| 3     | Project Presentation Competition  | 500         |
-| 4     | Stationary Cost                   | 500         |
-|       |             **Total**             | **4709**    |
+| 1     | Project Conference                | 7500        |
+| 2     | Google Colab Pro                  | 1025        |
+| 3     | Online Courses                    | 2684        |
+| 4     | Project Presentation Competition  | 500         |
+| 5     | Stationary Cost                   | 500         |
+|       |             **Total**             | **12209**   |
 
 ### Funding Certificate ✨
 <p align="center">
   <img src="https://github.com/StudiYash/DweshaMukt/blob/main/Certifications/Project%20Funding/Project%20Funding%20Certificate.png" alt="Funding Certificate" width="60%" />
 </p>
 
-> *The above provided certificate is custom designed and not officially presented by the college itself. We extend our heartfelt gratitude to VPKBIET College for their trust and support. Their investment in this project has been invaluable in pushing the boundaries of AI-driven hate speech detection.*
+> *The above provided certificate has been officially presented by the college itself. We extend our heartfelt gratitude to VPKBIET College for their trust and support. Their investment in this project has been invaluable in pushing the boundaries of AI-driven hate speech detection.*
 
 ---
 ## Future Scope 🔮
