@@ -1,13 +1,19 @@
-streamlit
-Pillow
-transformers
-tensorflow
-numpy
-joblib
-google-api-python-client
-google-cloud-videointelligence
-pytesseract
-moviepy
-speechrecognition
-pydub
-pytube
+streamlit==1.36.0
+Pillow==10.4.0
+transformers==4.41.2; python_version < "3.12"
+transformers==4.57.1; python_version >= "3.12"
+tensorflow==2.15.1; python_version < "3.12"
+tensorflow==2.20.0; python_version >= "3.12"
+tf-keras==2.20.1; python_version >= "3.12"
+numpy==1.26.4; python_version < "3.12"
+numpy==2.2.6; python_version >= "3.12"
+joblib==1.4.2
+scikit-learn==1.5.2; python_version < "3.12"
+scikit-learn==1.7.2; python_version >= "3.12"
+google-api-python-client==2.137.0
+google-cloud-videointelligence==2.13.5
+pytesseract==0.3.10
+moviepy==1.0.3
+SpeechRecognition==3.10.4
+pydub==0.25.1
+standard-aifc==3.13.0; python_version >= "3.13"

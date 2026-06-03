@@ -1,0 +1,25 @@
+.env
+.venv/
+**/.venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+*.tmp
+*.temp
+*.log
+
+# Local Google Cloud service-account keys and other private secrets.
+*credentials*.json
+*service-account*.json
+*service_account*.json
+*.pem
+*.key
+
+# Private DweshaMukt retraining data and outputs
+Train/*.csv
+Train/*.xlsx
+Train/*.xls
+Train/*.ipynb
+Train/outputs/

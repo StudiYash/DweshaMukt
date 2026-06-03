@@ -68,13 +68,17 @@ All files should be located inside the Project Backend directory, accessible via
 
 [![Project Backend](https://img.shields.io/badge/View-Project%20Backend-blue?style=for-the-badge&logo=github)](https://github.com/StudiYash/DweshaMukt/tree/main/Project%20Backend)
 
-### Step 3: Update the Code
+### Step 3: Configure Credentials
 
-Replace the placeholder text in the code with your **Telegram Bot API Token**:
+Set your Telegram bot token in the environment before running the notebook:
 
-```python
-TOKEN: Final = 'Your Telegram Bot API Token'
+```bash
+set TELEGRAM_BOT_TOKEN=your-telegram-bot-token
 ```
+
+On macOS/Linux, use `export` instead of `set`.
+
+Do not commit bot tokens.
 
 ### Step 4: Run the Bot
 

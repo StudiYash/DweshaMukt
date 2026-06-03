@@ -69,23 +69,20 @@ All files should be located inside the Project Backend directory, accessible via
 
 [![Project Backend](https://img.shields.io/badge/View-Project%20Backend-blue?style=for-the-badge&logo=github)](https://github.com/StudiYash/DweshaMukt/tree/main/Project%20Backend)
 
-### Step 3: Update the API Credentials Path in the Code
+### Step 3: Configure Credentials
 
-Update the Google Cloud Vision API credentials path in the code:
+Set credentials in your environment before running the notebook:
 
-```python
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = r"/Image Detection/credentials.json"
+```bash
+set TELEGRAM_BOT_TOKEN=your-telegram-bot-token
+set GOOGLE_APPLICATION_CREDENTIALS=path\to\private-service-account.json
 ```
 
-### Step 4: Update the Code
+On macOS/Linux, use `export` instead of `set`.
 
-Replace the placeholder text in the code with your **Telegram Bot API Token**:
+Do not commit bot tokens or Google service-account JSON files.
 
-```python
-TOKEN: Final = 'Your Telegram Bot API Token'
-```
-
-### Step 5: Run the Bot
+### Step 4: Run the Bot
 
 - Execute the script in your environment (e.g., Google Colab, Jupyter Notebook, or local Python environment).
 - The bot will start polling and respond to commands and messages on Telegram.

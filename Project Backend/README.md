@@ -37,13 +37,12 @@ Before running the notebook, ensure you have the following:
 
 2. **Google Cloud Authentication :**
 - You need to authenticate for each API used in the project (Speech-to-Text, Vision, and Video Intelligence).
-- Place your Google Cloud JSON key files in the project directory and specify the paths in the code for each API.
-- Update these lines in the code to match the paths to your credential files:
+- Keep Google Cloud JSON key files outside version control.
+- Configure `GOOGLE_APPLICATION_CREDENTIALS` in your shell or private `.env` file before running cloud-backed notebook cells:
 
     ```python
-    os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = r"/path/to/your/credentials1.json"  # For Speech-to-Text
-    os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = r"/path/to/your/credentials2.json"  # For Vision API
-    os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = r"/path/to/your/credentials3.json"  # For Video Intelligence API
+    import os
+    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "path/to/private/service-account.json"
     ```
 
 3. **Mount Google Drive (for Colab users) :**

@@ -1,117 +1,222 @@
-# Project Frontend 💫
+# Project Frontend
 
-Welcome to the **Project Frontend** folder of the DweshaMukt project! This folder contains the main frontend code for implementing the hate speech detection project as an interactive **Streamlit App**. The app allows users to upload and classify text, audio, images, GIFs, and videos, as well as analyze live YouTube comments.
+This folder contains the DweshaMukt Streamlit frontend for Hinglish hate speech detection.
 
----
+The app supports two setup levels:
 
-## Table of Contents
-- [Requirements](#requirements)
-- [Setup Instructions](#setup-instructions)
-- [File and Path Changes](#file-and-path-changes)
-- [Important Notes](#important-notes)
-- [Watch in Action](#watch-frontend-in-action)
+- **Basic Mode:** run the app and use text classification from the repository's local model files.
+- **Full Mode:** enable audio, image, GIF, video, and YouTube workflows by installing local tools and configuring optional API credentials.
 
----
+Prediction labels are standardized as:
 
-## Requirements
+```text
+yes = hate speech
+no = non-hate speech
+```
 
-Ensure you have the following before proceeding:
+## Basic Mode
 
-1. **VS Code**: Open the entire **Project Frontend** folder in Visual Studio Code.
-2. **Tesseract Software**: Download and install Tesseract OCR software.
-3. **Google Cloud API Credentials**: JSON files for Speech-to-Text, Vision, and Video Intelligence APIs.
-4. **Backend Files**: Download the following from the **Project Backend** folder:
-    - Model directory: `hate_speech_model`
-    - `tf_model.h5` (TensorFlow model weights)
-    - `label_encoder.pkl` (Label encoder file)
-5. **Python Environment**: Python 3.10 installed with all required libraries.
-6. **Streamlit Configuration**: Add a `config.toml` file in your local Streamlit folder.
+Basic Mode does not require Google Cloud credentials, a YouTube API key, Tesseract path edits, or source-code changes.
 
----
+Requirements:
 
-## Setup Instructions
+- Python 3.10 recommended; Python 3.13 is also supported by the version-marked dependency file
+- pip
+- Repository model assets in `Project Backend/`
 
-1. **File Setup and Path Changes**:
-    - Open the **Project Frontend** folder in **VS Code**.
-    - Update the following paths in the respective files:
+From the repository root:
 
-        **`Inside All .py Files`**:
-      ```python
-      model_directory = r'D:\Hate Speech Detection in Hinglish Language\hate_speech_model'
-      loaded_model = TFBertForSequenceClassification.from_pretrained(model_directory)
-      loaded_tokenizer = BertTokenizer.from_pretrained(model_directory)
+```bash
+cd "Project Frontend"
+python -m venv .venv
+.venv\Scripts\activate
+pip install -r frontend_requirements.txt
+streamlit run app.py
+```
 
-      # Load the TensorFlow model
-      tf_model_filename = r'D:\Hate Speech Detection in Hinglish Language\tf_model.h5'
-      loaded_model.load_weights(tf_model_filename)
+On macOS/Linux, activate the environment with:
 
-      # Load the label encoder
-      label_encoder_filename = r'D:\Hate Speech Detection in Hinglish Language\label_encoder.pkl'
-      loaded_label_encoder = joblib.load(label_encoder_filename)
-      ```
+```bash
+source .venv/bin/activate
+```
 
-      **`image_classification.py`**:
-      ```python
-      # Set Tesseract path
-      tess.pytesseract.tesseract_cmd = r'C:\Users\UserName\AppData\Local\Programs\Tesseract-OCR\tesseract.exe'
-      ```
+Expected Basic Mode functionality:
 
-      **`gif_classification.py`**:
-      ```python
-      # Set Google Cloud credentials environment variable
-      os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = r'D:\Hate Speech Detection in Hinglish Language\noted-casing-413617-bb0c110a54de.json'
-      ```
+```text
+Text Classification
+```
 
-2. **Install Required Libraries**:
-    - Install dependencies by running the following command in the terminal:
-      ```bash
-      pip install -r frontend_requirement.txt
-      ```
+The app loads model/tokenizer assets from:
 
-3. **Add `config.toml` File**:
-    - Add a `config.toml` file to your Streamlit folder. The usual path for the Streamlit folder is:
-      ```
-      C:\Users\<YourUserName>\.streamlit\config.toml
-      ```
+```text
+../Project Backend/
+```
 
-4. **Run the Streamlit App**:
-    - Launch the app using the following command in the terminal:
-      ```bash
-      streamlit run app.py
-      ```
+Required files:
 
----
+```text
+config.json
+vocab.txt
+tokenizer_config.json
+special_tokens_map.json
+tf_model.h5
+label_encoder.pkl
+```
 
-## File and Path Changes
+## Full Mode
 
-Ensure all the files and paths are correctly set according to your folder structure:
+Full Mode supports:
 
-- **Model Directory**: Path to the `hate_speech_model` folder.
-- **Tesseract OCR Path**: Path to the installed Tesseract executable.
-- **Google Cloud Credentials**: Path to your JSON key files for API authentication.
-- **Streamlit Config File**: Path to the Streamlit `config.toml` file.
+```text
+Text
+Audio
+Image
+GIF
+Video
+YouTube Comments
+```
 
----
+Additional requirements:
 
-## Important Notes
+- ffmpeg for audio/video conversion
+- Tesseract OCR for image text extraction
+- Google Cloud Video Intelligence credentials for GIF text extraction
+- YouTube Data API key for YouTube comment classification
+- Internet access for audio/video speech recognition and cloud/API workflows
 
-1. **Backend Dependency**: Ensure the backend files are correctly downloaded and paths updated as required.
-2. **Streamlit Folder**: The `config.toml` file must be placed in the appropriate Streamlit folder for proper configuration.
-3. **Tesseract Installation**: Ensure Tesseract OCR is installed and its path correctly specified.
-4. **API Rate Limits**: Be mindful of Google Cloud API quotas while testing multiple inputs.
-5. **Testing**: Perform thorough testing of the Streamlit app to verify compatibility with all supported input types.
+### Environment Configuration
 
----
+Copy the example file from the repository root:
 
-## Watch Frontend in Action
+```bash
+copy ..\.env.example ..\.env
+```
 
-| Bot Name          | Description                              | Watch in Action |
-|-------------------|------------------------------------------|-----------------|
-| **Text Frontend**    | Processes text input.                    | [![Watch Text Frontend](https://img.shields.io/badge/Watch-Text%20Frontend-white?style=for-the-badge&logo=YouTube)](https://youtu.be/sj4sloqjrp0?si=9-aDAUwBaCw2TtWJ) |
-| **Audio Frontend**   | Processes audio input.                   | [![Watch Audio Frontend](https://img.shields.io/badge/Watch-Audio%20Frontend-magenta?style=for-the-badge&logo=YouTube)](https://youtu.be/qLkZnnZxUIs?si=g-chiiKRytZ7oETw) |
-| **Image Frontend**   | Processes image input.                   | [![Watch Image Frontend](https://img.shields.io/badge/Watch-Image%20Frontend-indigo?style=for-the-badge&logo=YouTube)](https://youtu.be/8qrNRBQR9eE?si=qirdFIe6XV4F9MfH) |
-| **GIF Frontend**     | Processes GIF input.                     | [![Watch GIF Frontend](https://img.shields.io/badge/Watch-GIF%20Frontend-gold?style=for-the-badge&logo=YouTube)](https://youtu.be/c67fxomBWOs?si=e6wvLw9iG28VIxlp) |
-| **Video Frontend**   | Processes video input.                   | [![Watch Video Frontend](https://img.shields.io/badge/Watch-Video%20Frontend-blue?style=for-the-badge&logo=YouTube)](https://youtu.be/EBTcEdb98ZA?si=LjbXQMGdY0lD0rdx) |
-| **YouTube Frontend** | Processes existing YouTube comments.     | [![Watch YouTube Frontend](https://img.shields.io/badge/Watch-YouTube%20Frontend-crimson?style=for-the-badge&logo=YouTube)](https://youtu.be/9eICn3HgVs8?si=Vd375i5hiZB-fy88) |
+On macOS/Linux:
 
-**Happy Coding! Enjoy building the frontend for DweshaMukt!**
+```bash
+cp ../.env.example ../.env
+```
+
+Fill only the values you need:
+
+```text
+YOUTUBE_API_KEY=
+GOOGLE_APPLICATION_CREDENTIALS=
+TESSERACT_CMD=
+```
+
+`GOOGLE_APPLICATION_CREDENTIALS` may be a path relative to the repository root, or a machine-specific absolute path kept only in your private `.env`.
+
+`TESSERACT_CMD` is only needed if the `tesseract` executable is not available on PATH.
+
+Do not commit `.env` or real credential files.
+
+## Modality Setup
+
+| Modality | Basic/Full | Extra setup |
+|---|---|---|
+| Text | Basic | None beyond Python dependencies and local model files |
+| Audio | Full | ffmpeg, internet access for `SpeechRecognition.recognize_google` |
+| Image | Full | Tesseract OCR installed or `TESSERACT_CMD` configured |
+| GIF | Full | Google Cloud Video Intelligence enabled and `GOOGLE_APPLICATION_CREDENTIALS` configured |
+| Video | Full | ffmpeg, MoviePy, internet access for `SpeechRecognition.recognize_google` |
+| YouTube Comments | Full | YouTube Data API key configured as `YOUTUBE_API_KEY` |
+
+## Smoke Test Instructions
+
+Use files from:
+
+```text
+../Project Test Inputs/
+```
+
+Suggested checks:
+
+1. Text: open `Project Test Inputs/Text/Text Input 1.txt`, paste its content into Text Classification, and confirm a `yes` or `no` label appears.
+2. Audio: upload `Project Test Inputs/Audios/Audio Input 1.mp3` after ffmpeg is installed.
+3. Image: upload `Project Test Inputs/Images/Image Input 1.jpg` after Tesseract is installed.
+4. GIF: upload `Project Test Inputs/GIFs/GIF Input 1.gif` after Google Cloud credentials are configured.
+5. Video: upload `Project Test Inputs/Videos/Video Input 1.mp4` after ffmpeg is installed.
+6. YouTube: enter a valid YouTube video ID after setting `YOUTUBE_API_KEY`.
+
+## Troubleshooting
+
+### Model assets not found
+
+Error:
+
+```text
+Model assets not found in Project Backend.
+```
+
+Fix:
+
+- Confirm the repository contains the required files in `Project Backend/`.
+- Run Streamlit from `Project Frontend/` or the repository using the documented command.
+- Do not move `tf_model.h5` or `label_encoder.pkl` into random local folders.
+
+### Tesseract OCR not found
+
+Error:
+
+```text
+Tesseract OCR not found.
+```
+
+Fix:
+
+- Install Tesseract OCR.
+- Add it to PATH, or set `TESSERACT_CMD` in `.env`.
+
+Example:
+
+```text
+TESSERACT_CMD=tools/tesseract/tesseract
+```
+
+### Google Cloud credentials not configured
+
+Error:
+
+```text
+Google Cloud credentials not configured.
+```
+
+Fix:
+
+- Create a Google Cloud service-account JSON key.
+- Enable Video Intelligence API.
+- Set `GOOGLE_APPLICATION_CREDENTIALS` in `.env`.
+
+### YouTube API key not configured
+
+Error:
+
+```text
+YouTube API key not configured.
+```
+
+Fix:
+
+- Create a YouTube Data API v3 key.
+- Set `YOUTUBE_API_KEY` in `.env`.
+
+### ffmpeg missing
+
+Symptoms:
+
+- Audio conversion fails.
+- Video processing fails.
+- MoviePy or pydub errors mention codecs or ffmpeg.
+
+Fix:
+
+- Install ffmpeg.
+- Confirm `ffmpeg -version` works in your terminal.
+
+## Notes
+
+- Audio and video transcription use the `SpeechRecognition` package's `recognize_google` method, which requires internet access.
+- GIF text detection uses Google Cloud Video Intelligence and may incur cloud usage costs.
+- Uploaded content may be sent to external services for Full Mode workflows.

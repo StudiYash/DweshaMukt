@@ -53,6 +53,14 @@ Completing this project was indeed a challenging task, and we deeply appreciate 
 
 ---
 
+## Run DweshaMukt Locally 🚀
+
+You can run the Streamlit frontend and Telegram bots locally after cloning the repository. Basic frontend text classification uses the included model assets in `Project Backend/`, while full multimodal workflows and Telegram bots may require optional tools and credentials.
+
+[![Local Setup Guide](https://img.shields.io/badge/View-Local%20Setup%20Guide-gold?style=for-the-badge&logo=markdown)](https://github.com/StudiYash/DweshaMukt/blob/main/LOCAL_SETUP_GUIDE.md)
+
+---
+
 ## Related Work ⚒️
 
 Hate speech detection has become a critical area of research in recent years, driven by the proliferation of social media platforms where users frequently engage in discussions that transcend linguistic boundaries. This has created unique challenges, particularly in detecting hate speech within code-switched and multilingual contexts. Numerous studies have tackled this issue by employing advanced machine learning and deep learning techniques, striving to enhance the accuracy and robustness of hate speech classifiers. This section highlights significant contributions in this field, with a focus on methodologies and outcomes that address the complexities of hate speech detection in mixed-language data.
